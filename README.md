@@ -32,8 +32,8 @@ The backend is completely build on Django using Django Rest Framework, while the
 
 ## Backend Setup
 
-1. Clone this repository: `git clone https://github.com/dojutsu-user/Django-React-Blog.git`.
-2. Change the current directory to `backend` folder: `cd ./Django-React-Blog/backend/adminapi/`.
+1. Clone this repository: `git clone https://github.com/buckineer/Blogging-Platform.git`.
+2. Change the current directory to `backend` folder: `cd ./Blogging-Platform/backend/adminapi/`.
 3. Create a virutal environment and install all backend dependencies with pipenv: `pipenv install`.
 4. Start the virtual environment: `pipenv shell`.
 5. Change the working directory to `adminapi` which contains the `manage.py` file: `cd ./adminapi`.
@@ -44,7 +44,7 @@ The backend is completely build on Django using Django Rest Framework, while the
 
 ## Frontend Setup
 
-1. Navigate the current working directory to `landing`: `cd ./Django-React-Blog/frontend/blog_frontend/`.
+1. Navigate the current working directory to `landing`: `cd ./Blogging-Platform/frontend/blog_frontend/`.
 2. Install the all frontend dependencies using npm: `npm install`.
 3. Run the server: `npm start`.
 
